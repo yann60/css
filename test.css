@@ -1,0 +1,9 @@
+bonjour
+
+coucou
+
+git init
+git add "monFichie"
+git commit -m "text"
+git remote add origin https://...
+git push -u origin master
